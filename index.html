@@ -318,7 +318,8 @@
 									$("#name").val('')
 									$("#email").val('')
 									$("#skill").val('')
-									alert('Submitted successfully')
+									alert('Submitted successfully. You will now be redirected to our community signup page.')
+									window.location.replace("http://chat.apps.ethicalcode.com.au/login?redirect_to=%2Fethicalcode");
 								} else {
 									console.error(users);
 								}
