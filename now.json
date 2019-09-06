@@ -1,5 +1,8 @@
 {
-  "version": 1,
-	"type":"static",
-  "alias": ["ethical.paulday.com.au","ethicalcode.com.au"]
+  "version": 2,
+  "name": "ethicalcode.com.au",
+  "alias": "ethicalcode.com.au",
+  "github": {
+    "enabled": true
+  }
 }
