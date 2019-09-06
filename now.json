@@ -3,6 +3,7 @@
   "name": "ethicalcode.com.au",
   "alias": "ethicalcode.com.au",
   "github": {
-    "enabled": true
+    "enabled": true,
+    "autoAlias": true
   }
 }
